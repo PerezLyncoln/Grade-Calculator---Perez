@@ -14,12 +14,12 @@ Importan Notes:
 
 
 How does it work?
-    [One Input] --- [Best for knowing how much you need in the OTHER terms to reach the passing grade 75.]
+    One Input --- [Best for knowing how much you need in the OTHER terms to reach the passing grade 75.]
         -If you entered one grade into one of the three boxes provided, it will solve for your required grade in the other two boxes that you have not filled in.
     
-    [Two Inputs] --- [Best for calculating how much you need in ONE term to reach the passing grade]
+    Two Inputs --- [Best for calculating how much you need in ONE term to reach the passing grade]
         -If you entered two grades into two of the boxes out of three provided, it will solve for the last box you have not filled in.
     
-    [Three Inputs] --- [Best for calculating the total grade you got in ALL of the terms (Prelims, Midterms, and Finals)]
+    Three Inputs --- [Best for calculating the total grade you got in ALL of the terms (Prelims, Midterms, and Finals)]
         -If you filled all of the boxes, it will calculate the overall result.
     
